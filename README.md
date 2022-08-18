@@ -14,6 +14,8 @@ example:
 
 **main directory>anime>(name of the serie/anime)>(episodes, i recommand naming the episodes with their number)**
 
+for cover art put a `cover.jpg` image in the corresponding folder
+
 to run type:
 ```
 python serv.py
