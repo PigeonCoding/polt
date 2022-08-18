@@ -1,0 +1,64 @@
+{
+  "content": [
+    {
+      "demonLordReincarnedAsANobody": [
+        [
+          {
+            "folder": "demonLordReincarnedAsANobody",
+            "files": [
+              "9.mp4"
+            ],
+            "image": "cover.jpg"
+          }
+        ]
+      ],
+      "letMeCheckTheWalkthrough": [
+        [
+          {
+            "folder": "letMeCheckTheWalkthrough",
+            "files": [
+              "2.mp4"
+            ],
+            "image": "cover.jpg"
+          }
+        ]
+      ],
+      "sketelonKnightInAnotherWorld": [
+        [
+          {
+            "folder": "sketelonKnightInAnotherWorld",
+            "files": [
+              "5.mp4",
+              "ep11.mp4",
+              "ep9.mp4"
+            ],
+            "image": "cover.jpg"
+          }
+        ]
+      ],
+      "tatenoYuushaNoNariagiriS2": [
+        [
+          {
+            "folder": "tatenoYuushaNoNariagiriS2",
+            "files": [
+              "8.mp4",
+              "9.mp4"
+            ],
+            "image": "cover.jpg"
+          }
+        ]
+      ],
+      "TrapedInADatingSim": [
+        [
+          {
+            "folder": "TrapedInADatingSim",
+            "files": [
+              "ep11.mp4"
+            ],
+            "image": "cover.jpg"
+          }
+        ]
+      ]
+    }
+  ]
+}

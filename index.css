@@ -1,0 +1,26 @@
+body{
+    color: whitesmoke;
+    background-color: #262829;
+}
+
+.grid-container{
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-between;
+    height: 300px; 
+    width: 100%; */
+}
+
+.button{
+    border: none;
+    color: white;
+    font-size: large;
+    transition: 0.2s all;
+    /* width: 25%; */
+}
+
+
